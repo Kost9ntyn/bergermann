@@ -1,0 +1,8 @@
+2017-05-21 23:50:19 Log4Test [INFO] INFO: "Open WebUrl http://rozetka.com.ua/"
+2017-05-21 23:50:19 Log4Test [INFO] INFO: "http://rozetka.com.ua/"
+2017-05-21 23:51:07 Log4Test [INFO] INFO: "Open WebUrl https://x-kom.pl"
+2017-05-21 23:51:07 Log4Test [INFO] INFO: "https://www.x-kom.pl/"
+2017-05-21 23:51:53 Log4Test [INFO] INFO: "Open WebUrl https://www.x-kom.pl"
+2017-05-21 23:51:53 Log4Test [INFO] INFO: "https://www.x-kom.pl/"
+2017-05-21 23:52:31 Log4Test [INFO] INFO: "Open WebUrl https://www.x-kom.pl/"
+2017-05-21 23:52:31 Log4Test [INFO] INFO: "https://www.x-kom.pl/"
