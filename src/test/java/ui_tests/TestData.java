@@ -4,7 +4,7 @@ import core.BrowserTypes;
 
 public class TestData {
 
-    public static final BrowserTypes BROWSER_NAME = BrowserTypes.CHROME;
+    public static final BrowserTypes BROWSER_NAME = BrowserTypes.FIRE_FOX;
 
     public static final String ADATA_128_GB_2_5 = "ADATA 128GB 2,5'' SATA SSD Ultimate SU800 3D NAND";
 
